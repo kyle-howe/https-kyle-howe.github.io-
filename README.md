@@ -1,2 +1,2 @@
 # Main GitHub Page
-kyle-howe.github.io/T31_precip_NOV.html
+<a href = "./Nov_precip/README.html">November Historical Precipitation Comparison</a>
